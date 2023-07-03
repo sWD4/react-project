@@ -1,0 +1,15 @@
+.name{
+    padding: 10px;
+    font-size: 16px;
+}
+.photo{
+   color: black;
+   text-decoration: none;
+}
+.head{
+    padding-top: 20px;
+  /* text-transform: uppercase; */
+  /* font-family: 'prague'; */
+  /* letter-spacing: 3px; */
+  text-align: center;
+}
